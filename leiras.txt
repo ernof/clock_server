@@ -1,0 +1,12 @@
+ora:
+rezgo resz
+szamlalo
+regiszter
+
+szamlalo szmlalja a regisztereket(a reg megy visszafele 0-ig)
+szamoljuk a szazadmasodperceket, szamlalo is 1-tol 10-ig random. Ettol elteroen fog menni az ora
+Egy algoritmus a 3-bol(crisitan..)
+A ket ora egyforman kell jarjon
+A szamlalo szamolja a regisztereket (pl 2 milisecundum) HA a rezgo 2-t rezgett, novelem a masodpercet.
+a regiszter "az ora"
+a rezgo -> random, pl 2, minden 2 milisecundum kepezi egy rezgest
